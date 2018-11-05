@@ -1,4 +1,7 @@
-```markdown
+---
+Title: Welcome
+Description: Pico is a stupidly simple, blazing fast, flat file CMS.
+---
 
 # 从Youtube和腾讯视频《香蜜沉沉烬如霜》评论看香蜜N问
 
@@ -200,5 +203,3 @@
 
 油管评论的数据包和R代码已经上传github了。 腾讯评论文件超过上传大小限制，懒得分割，暂时先不放了。相关代码注释在同一个R文件里。有些没放上来的作图代码可能有误，见谅。 同行欢迎根据数据自行分析，与我互证；吃瓜看客闲着没事也可以围观油管评论，直观感受。
 
-
-```
